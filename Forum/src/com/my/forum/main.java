@@ -11,7 +11,7 @@ public class main  {
     //用户名
     public static final String  USER = "root";
     //密码
-    public static final String  PASSWORD = "admin";
+    public static final String  PASSWORD = "root";
     //使用的数据库
     public static final String  DATABASESNAME = "forum";
     //全局静态扫描器,用以读取输入的内容
